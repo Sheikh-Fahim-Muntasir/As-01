@@ -1,0 +1,105 @@
+ nav{
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ .navi{
+   display: flex;list-style-type: disc; list-style-image: url(../As-01/assets/CheckCircle.png); justify-content: space-between ; list-style: none; padding-left: 32px; gap: 32px;}
+   nav .btn{
+margin: 24px 120px;
+color:white;
+background-color: #30B868;
+font-weight: 600PX;
+font-size: 16PX; gap: 10;width: 164px;height: 44px; align-items: center;
+   }
+   nav img {
+      margin: 16px 120px;
+   }
+   .type{
+      font-size: 16px;
+      font-weight: 500;
+      font-style: medium ;
+text-align: center; 
+   }
+  .dj{
+   
+   border: 1px solid green;
+   border-radius: 999px;
+   padding: 2px;list-style: none;
+   align-items: center;
+   display: flex;
+   justify-content: center; margin: 80px 750px; background-color: aliceblue; 
+   forced-color-adjust:solid green 2px; color: #30B868; 
+  }
+  {
+   font-style: Bold;
+font-size: 72px;
+font-weight: 700;text-align: center;
+  }
+   .had  {
+   font-style: Bold;
+font-size: 72px;
+font-weight: 700; text-align: center;  margin: 0px; }
+.kota{
+    text-align: center;
+font-size: 18px;font-weight: 400;
+margin: 0cap;  
+}
+.vlt{
+    font-style: Semi Bold;
+font-size:23px;
+font-weight: 600;
+line-height: 19px;
+ padding: 16;
+   background-color: #30B868;color: aliceblue;border-style: none; padding: 15px;;
+  
+
+}
+.see {
+    font-style: Semi Bold;
+font-size:23px;
+font-weight: 600;
+line-height: 19px;
+ padding: 16px;border-style: none; border: white ; gap: 10px;   background-color: rgb(57, 57, 148);color:w;
+}
+.pagol   {
+   justify-content: center;text-align: center; margin: 
+}
+ .kak{
+   background-image: url(./assets/hero-bg.png) ; height: 1000px;
+height: 600px;margin-top: 53px;  margin-top: -60px;
+       
+ }
+ .par{
+align-items: center ; justify-content: center;margin: 0PX 350PX; gap: 0px; padding: 0cap;
+ }
+ .mota{
+   font-style: Bold;
+font-size: 48px;
+font-weight: 700;text-align: center;
+ color: #001931; padding-bottom: 0px;margin-bottom: 0px;} 
+ .choto{
+    font-size: 16px;
+font-weight: 400;text-align: center;padding-top: 0px; margin-top: 0px;}
+.ima{
+    width: 32px;
+height: 32px; background-color: rgba(249, 85, 85, 1); border-radius: 50% ; padding: 5px;
+}
+.title{
+   font-style: Semi Bold;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+}
+.sub{
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+}
+.card{
+   display:list-item; border-radius: 12px;padding: 12px;width: 322px;
+height: 300px;gap: 16; 
+ list-style: none; margin-left: 50px ;border: 1px solid rgb(198, 184, 184); padding: 10PX; padding-bottom: 0PX;}
+   .bap  {
+      display: flex;
+   }
