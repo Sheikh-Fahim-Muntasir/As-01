@@ -23,13 +23,8 @@ text-align: center;
    }
   .dj{
    
-   border: 1px solid green;
-   border-radius: 999px;
-   padding: 2px;list-style: none;
-   align-items: center;
-   display: flex;
-   justify-content: center; margin: 80px 750px; background-color: aliceblue; 
-   forced-color-adjust:solid green 2px; color: #30B868; 
+display: flex;
+   
   }
   {
    font-style: Bold;
@@ -103,3 +98,13 @@ height: 300px;gap: 16;
    .bap  {
       display: flex;
    }
+   .diva{
+    order: 1px solid green;
+   border-radius: 999px;
+   padding: 0px; color: #30B868;
+   align-items: center;
+   display: flex;
+   justify-content: center; margin: 80px  auto; background-color: aliceblue;  width: 229px;
+height: 36px;
+   }
+   
