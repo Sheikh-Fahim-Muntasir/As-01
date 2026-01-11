@@ -93,7 +93,7 @@ line-height: 20px;
 }
 .card{
    display:list-item; border-radius: 12px;padding: 12px;width: 322px;
-height: 300px;gap: 16; 
+height: 200px;gap: 16; 
  list-style: none; margin-left: 50px ;border: 1px solid rgb(198, 184, 184); padding: 10PX; padding-bottom: 0PX;}
    .bap  {
       display: flex;
@@ -108,3 +108,36 @@ height: 300px;gap: 16;
 height: 36px;
    }
    
+    .fth{
+      font-size: 20px;color: #627382;padding-top: 0px ;
+font-weight: 500; text-align: left;
+    }
+    .im{
+      width: 10px;
+height: 10px;
+    }
+    .trd{
+
+      font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+    }
+    .snd{
+      font-style: Bold;
+font-size: 48px;
+font-weight: 700; padding: 0px; padding-bottom: 0px;
+    }
+    .ist{
+      padding: 0px; margin-top: 50px;
+    }
+    .brain
+   {
+      margin-left: 200px;
+   }
+   .ist{
+margin-left: 100px;
+margin-right: 100px;
+   }
+   .frame{
+      display: flex; 
+   }
